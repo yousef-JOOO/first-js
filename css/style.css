@@ -1,0 +1,32 @@
+.card{
+    background-color: #ebebeb!important;
+}
+
+.sa{
+    width: 1000px;
+    height: 200px;
+    border: solid black 1px;
+    border-radius: 10px;
+    margin:20px 10px;
+    background-color:   rgb(59, 141, 235);
+    color: white;
+    font-size: 18px;
+
+}
+.ss{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+.se{
+    width: 400px;
+    height: 35px;
+    border-radius: 10px;
+    border: solid 1px black;
+    margin: 10px 30px 20px;
+    background-color: dark;
+    background-color:   rgb(59, 141, 235);
+    color: white;
+    font-weight: bold;
+}
